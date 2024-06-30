@@ -1,0 +1,230 @@
+/* Existing styles */
+.form-container {
+    max-width: 120%;
+    margin: auto;
+}
+.flight-form {
+    background-color: #007bff;
+    padding: 10px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.flight-form .form-control {
+    border: none;
+    box-shadow: none;
+    border-radius: 10px;
+    height: calc(1.5em + 1rem + 2px);
+    font-size: 1.25rem;
+    height: 48px;
+    padding: 0.5rem 1rem;
+}
+
+.flight-form .form-group {
+    margin-bottom: 0;
+    flex-grow: 1;
+    margin-right: 10px;
+}
+
+.flight-form .form-control::placeholder {
+    color: #6c757d;
+}
+
+.flight-form .btn {
+    border-radius: 10px;
+    font-size: 1.25rem;
+    padding: 0.5rem 1.5rem;
+}
+
+/* New styles for the image */
+.image-container {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.image-container img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+/* Styles for flight results */
+.flight-card {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.price-tag {
+    min-width: 120px;
+    text-align: right;
+}
+
+.accordion .card {
+    margin-bottom: 10px;
+}
+
+.accordion .card-header {
+    background-color: #f7f7f7;
+    border-radius: 10px;
+}
+
+.accordion .card-body {
+    border: 1px solid #f7f7f7;
+    border-top: none;
+    border-radius: 0 0 10px 10px;
+}
+.toggle-button {
+    border-radius: 20px;
+    background-color: yellow;
+    border: none;
+    color: black;
+}
+.toggle-button:hover {
+    background-color: #f0ad4e; /* Slightly darker yellow */
+}
+
+.rounded-button {
+    border-radius: 20px;
+}
+.summary-info {
+    font-size: 1rem;
+    margin-left: 15px;
+}
+.ml-3 {
+    margin-left: 1rem;
+}
+.icon {
+    width: 27px;  /* Adjust this value as needed */
+    height: 27px;  /* Adjust this value as needed */
+    margin-right: 10px;
+}
+.rounded-button {
+    border-radius: 20px;
+}
+
+.summary-info {
+    font-size: 1rem;
+    margin-left: 2px;
+}
+
+.subtitle {
+    margin-bottom: 40px;
+    font-size: 2rem
+}
+
+.table thead th {
+    border-bottom: none;
+}
+
+.icon {
+    height: 24px;
+    width: 24px;
+}
+
+.form-group {
+    margin-bottom: 0;
+}
+
+/* .search-line {
+    display: flex;
+    justify-content: space-between;
+} */
+
+/* .search-line .form-group {
+    flex: 1;
+    margin-right: 10px;
+} */
+
+/* .search-line .form-group:last-child {
+    margin-right: 0;
+} */
+
+/* .search-button {
+    flex-shrink: 0;
+} */
+
+.button-container {
+    margin-left: auto;
+}
+
+.align-right {
+    display: flex;
+    /* justify-content: start; */
+    justify-content: space-between;
+    align-items: center;
+}
+
+.align-right .btn {
+    margin-left: auto;
+    width: 200px;
+    height: 40px;
+}
+/* .spinner-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.8);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+}
+
+.spinner {
+    width: 50px;
+    height: 50px;
+    border: 6px solid #ccc;
+    border-top-color: #000;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+} */
+.table {
+    border: none;
+}
+
+.table thead th {
+    border: none;
+    background-color: #f8f9fa;
+}
+
+.table tbody td {
+    border: none;
+}
+
+.table th, .table td {
+    padding: 12px 15px;
+}
+
+.table tbody tr:nth-of-type(even) {
+    background-color: #f8f9fa;
+}
+
+.table-container {
+    border: 1px solid #dee2e6;
+    border-radius: 10px;
+    overflow: hidden;
+}
+/* ************************************************* */
+.search-form {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr); /* 7 equal columns */
+    gap: 10px;
+    align-items: center;
+}
+
+.search-form .form-control,
+.search-form select,
+.search-form button {
+    width: 100%; /* Ensures elements take the full width of their grid cell */
+    box-sizing: border-box;
+    height: 38px; /* Ensures all elements have the same height */
+}

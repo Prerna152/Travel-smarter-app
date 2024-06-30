@@ -1,0 +1,20 @@
+{
+    "Paris": {
+        "iata": "PAR",
+        "countryCode": "FR",
+        "country": "France"
+    },
+    "Berlin": {
+        "iata": "BER",
+        "countryCode": "DE",
+        "country": "Germany"
+    },
+    "Madrid": {
+        "iata": "MAD",
+        "countryCode": "ES"
+    },
+    "Barcelona": {
+        "iata": "BCN",
+        "countryCode": "ES"
+    }
+}

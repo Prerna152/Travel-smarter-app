@@ -1,0 +1,507 @@
+{
+    "BER": [
+        {
+            "chainCode": "SR",
+            "iataCode": "BER",
+            "dupeId": 700162809,
+            "name": "STEIGENBERGER AIRPORT HOTEL",
+            "hotelId": "SRBERAHB",
+            "geoCode": {
+                "latitude": 52.36395,
+                "longitude": 13.51173
+            },
+            "address": {
+                "countryCode": "DE"
+            },
+            "distance": {
+                "value": 0.71,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T10:15:42"
+        },
+        {
+            "chainCode": "HS",
+            "iataCode": "BER",
+            "dupeId": 700018123,
+            "name": "ALBERGO",
+            "hotelId": "HSBERAHT",
+            "geoCode": {
+                "latitude": 52.38811,
+                "longitude": 13.50638
+            },
+            "address": {
+                "countryCode": "DE"
+            },
+            "distance": {
+                "value": 2.89,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T11:11:15"
+        },
+        {
+            "chainCode": "SR",
+            "iataCode": "BER",
+            "dupeId": 700133066,
+            "name": "AIRPORT INTERCITYHOTEL BERLIN",
+            "hotelId": "SRBER581",
+            "geoCode": {
+                "latitude": 52.39315,
+                "longitude": 13.52605
+            },
+            "address": {
+                "countryCode": "DE"
+            },
+            "distance": {
+                "value": 3.82,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T10:13:52"
+        },
+        {
+            "chainCode": "BW",
+            "iataCode": "BER",
+            "dupeId": 700030500,
+            "name": "BW PREMIER AIRPORT FONTANE",
+            "hotelId": "BWBER324",
+            "geoCode": {
+                "latitude": 52.36215,
+                "longitude": 13.42825
+            },
+            "address": {
+                "countryCode": "DE"
+            },
+            "distance": {
+                "value": 4.98,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2024-05-01T21:34:26"
+        }
+    ],
+    "PAR": [
+        {
+            "chainCode": "YX",
+            "iataCode": "PAR",
+            "dupeId": 700054607,
+            "name": "HOTEL LES RIVES DE NOTRE DAME",
+            "hotelId": "YXPARRND",
+            "geoCode": {
+                "latitude": 48.85327,
+                "longitude": 2.34574
+            },
+            "address": {
+                "countryCode": "FR"
+            },
+            "distance": {
+                "value": 0.23,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T10:15:27",
+            "price" : 264
+    
+        },
+        {
+            "chainCode": "OI",
+            "iataCode": "PAR",
+            "dupeId": 700092051,
+            "name": "HOTEL RESIDENCE DES ARTS",
+            "hotelId": "OIPARRDA",
+            "geoCode": {
+                "latitude": 48.85351,
+                "longitude": 2.34245
+            },
+            "address": {
+                "countryCode": "FR"
+            },
+            "distance": {
+                "value": 0.47,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T10:07:03",
+            "price" : 348
+        },
+        {
+            "chainCode": "OI",
+            "iataCode": "PAR",
+            "dupeId": 700006438,
+            "name": "HOTEL VILLA D ESTREES",
+            "hotelId": "OIPARVDE",
+            "geoCode": {
+                "latitude": 48.85337,
+                "longitude": 2.34233
+            },
+            "address": {
+                "countryCode": "FR"
+            },
+            "distance": {
+                "value": 0.48,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T11:10:02",
+            "price" : 573
+        },
+        {
+            "chainCode": "WW",
+            "iataCode": "PAR",
+            "dupeId": 700018106,
+            "name": "VILLA PANTHEON",
+            "hotelId": "WWPARVLP",
+            "geoCode": {
+                "latitude": 48.84917,
+                "longitude": 2.34615
+            },
+            "address": {
+                "countryCode": "FR"
+            },
+            "distance": {
+                "value": 0.5,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T09:58:57",
+            "price" : 458
+        },
+        {
+            "chainCode": "UI",
+            "iataCode": "PAR",
+            "dupeId": 700005188,
+            "name": "BELLOY SAINT GERMAIN",
+            "hotelId": "UIPAR506",
+            "geoCode": {
+                "latitude": 48.85032,
+                "longitude": 2.34252
+            },
+            "address": {
+                "countryCode": "FR"
+            },
+            "distance": {
+                "value": 0.57,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T10:08:22",
+            "price" : 254
+        },
+        {
+            "chainCode": "YX",
+            "iataCode": "PAR",
+            "dupeId": 700131265,
+            "name": "HOTEL DUO",
+            "hotelId": "YXPARHDU",
+            "geoCode": {
+                "latitude": 48.85809,
+                "longitude": 2.35297
+            },
+            "address": {
+                "countryCode": "FR"
+            },
+            "distance": {
+                "value": 0.6,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T10:13:53",
+            "price" : 233
+        },
+        {
+            "chainCode": "OI",
+            "iataCode": "PAR",
+            "dupeId": 700032371,
+            "name": "HOTEL BOURG TIBOURG",
+            "hotelId": "OIPARBTI",
+            "geoCode": {
+                "latitude": 48.85724,
+                "longitude": 2.35609
+            },
+            "address": {
+                "countryCode": "FR"
+            },
+            "distance": {
+                "value": 0.68,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T11:09:40",
+            "price" : 344
+        },
+        {
+            "chainCode": "EU",
+            "iataCode": "PAR",
+            "dupeId": 700009639,
+            "name": "LAPIN BLANC HOTEL",
+            "hotelId": "EUPARDAC",
+            "geoCode": {
+                "latitude": 48.84916,
+                "longitude": 2.34202
+            },
+            "address": {
+                "countryCode": "FR"
+            },
+            "distance": {
+                "value": 0.68,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T09:56:34",
+            "price" : 231
+        },
+        {
+            "chainCode": "LM",
+            "iataCode": "PAR",
+            "dupeId": 700054606,
+            "name": "HOTEL PARIS RIVOLI",
+            "hotelId": "LMPAR581",
+            "geoCode": {
+                "latitude": 48.85598,
+                "longitude": 2.35757
+            },
+            "address": {
+                "countryCode": "FR"
+            },
+            "distance": {
+                "value": 0.7,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T09:54:29",
+            "price" : 244
+        },
+        {
+            "chainCode": "BW",
+            "iataCode": "PAR",
+            "dupeId": 700013743,
+            "name": "BEST WESTERN TRIANON RIVE GAUC",
+            "hotelId": "BWPAR673",
+            "geoCode": {
+                "latitude": 48.84874,
+                "longitude": 2.34165
+            },
+            "address": {
+                "countryCode": "FR"
+            },
+            "distance": {
+                "value": 0.73,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T10:14:06",
+            "price" : 211
+        },
+        {
+            "chainCode": "YX",
+            "iataCode": "PAR",
+            "dupeId": 700092046,
+            "name": "LE REGENT",
+            "hotelId": "YXPARLER",
+            "geoCode": {
+                "latitude": 48.85381,
+                "longitude": 2.33868
+            },
+            "address": {
+                "countryCode": "FR"
+            },
+            "distance": {
+                "value": 0.74,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T09:51:37",
+            "price" : 211
+        },
+        {
+            "chainCode": "LE",
+            "iataCode": "PAR",
+            "dupeId": 700045512,
+            "name": "GRAND HOTEL SAINT MICHEL",
+            "hotelId": "LEPARGSM",
+            "geoCode": {
+                "latitude": 48.84786,
+                "longitude": 2.34222
+            },
+            "address": {
+                "countryCode": "FR"
+            },
+            "distance": {
+                "value": 0.78,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T09:52:07",
+            "price" : 273
+        },
+        {
+            "chainCode": "RT",
+            "iataCode": "PAR",
+            "dupeId": 700010549,
+            "name": "NOVOTEL PARIS LES HALLES",
+            "hotelId": "RTPARNOV",
+            "geoCode": {
+                "latitude": 48.86053,
+                "longitude": 2.34653
+            },
+            "address": {
+                "countryCode": "FR"
+            },
+            "distance": {
+                "value": 0.81,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2024-03-22T08:42:55",
+            "price" : 324
+        },
+        {
+            "chainCode": "AC",
+            "iataCode": "PAR",
+            "dupeId": 700058681,
+            "name": "LES DAMES DU PANTHEON",
+            "hotelId": "ACPAR345",
+            "geoCode": {
+                "latitude": 48.84634,
+                "longitude": 2.34458
+            },
+            "address": {
+                "countryCode": "FR"
+            },
+            "distance": {
+                "value": 0.84,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T09:54:59",
+            "price" : 222
+        },
+        {
+            "chainCode": "OI",
+            "iataCode": "PAR",
+            "dupeId": 700092048,
+            "name": "ODEON SAINT-GERMAIN",
+            "hotelId": "OIPARODE",
+            "geoCode": {
+                "latitude": 48.85149,
+                "longitude": 2.33747
+            },
+            "address": {
+                "countryCode": "FR"
+            },
+            "distance": {
+                "value": 0.86,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T10:28:48",
+            "price" : 476
+        },
+        {
+            "chainCode": "YX",
+            "iataCode": "PAR",
+            "dupeId": 700078992,
+            "name": "HOTEL DE LA PLACE DU LOUVRE",
+            "hotelId": "YXPAR003",
+            "geoCode": {
+                "latitude": 48.85927,
+                "longitude": 2.34089
+            },
+            "address": {
+                "countryCode": "FR"
+            },
+            "distance": {
+                "value": 0.88,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T10:29:04",
+            "price" : 245
+        },
+        {
+            "chainCode": "LE",
+            "iataCode": "PAR",
+            "dupeId": 700058585,
+            "name": "HOTEL DE BUCI",
+            "hotelId": "LEPAR111",
+            "geoCode": {
+                "latitude": 48.8537,
+                "longitude": 2.33675
+            },
+            "address": {
+                "countryCode": "FR"
+            },
+            "distance": {
+                "value": 0.88,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T09:58:09",
+            "price" : 134
+        },
+        {
+            "chainCode": "EU",
+            "iataCode": "PAR",
+            "dupeId": 700048007,
+            "name": "EXCLUSIVE ELYSA LUXEMBOURG",
+            "hotelId": "EUPARH34",
+            "geoCode": {
+                "latitude": 48.84621,
+                "longitude": 2.34093
+            },
+            "address": {
+                "countryCode": "FR"
+            },
+            "distance": {
+                "value": 0.98,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T09:56:34",
+            "price" : 346
+        },
+        {
+            "chainCode": "YX",
+            "iataCode": "PAR",
+            "dupeId": 700158065,
+            "name": "KONFIDENTIEL PARIS",
+            "hotelId": "YXPARKPR",
+            "geoCode": {
+                "latitude": 48.86126,
+                "longitude": 2.34262
+            },
+            "address": {
+                "countryCode": "FR"
+            },
+            "distance": {
+                "value": 0.99,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T10:00:00",
+            "price" : 324
+        },
+        {
+            "chainCode": "LE",
+            "iataCode": "PAR",
+            "dupeId": 700062177,
+            "name": "HOTEL LE MADISON",
+            "hotelId": "LEPARMAD",
+            "geoCode": {
+                "latitude": 48.85334,
+                "longitude": 2.33446
+            },
+            "address": {
+                "countryCode": "FR"
+            },
+            "distance": {
+                "value": 1.05,
+                "unit": "KM"
+            },
+            "rating": 4,
+            "lastUpdate": "2023-06-15T10:08:21",
+            "price" : 253
+        }
+    ]
+}
